@@ -3909,6 +3909,7 @@ input[type=button].btn-block {
 }
 .nav-tabs .nav-item {
   margin-bottom: -1px;
+  text-align: left;
 }
 .nav-tabs .nav-link {
   border: 1px solid transparent;
