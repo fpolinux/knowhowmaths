@@ -3978,7 +3978,7 @@ input[type=button].btn-block {
 .navbar .container-xl {
   display: flex;
   flex-wrap: wrap;
-  align-items: center;
+  align-items: left;
   justify-content: space-between;
 }
 .navbar-brand {
@@ -10117,12 +10117,12 @@ header.masthead h1 {
   color: rgba(255, 255, 255, 0.75);
 }
 .dropdown {
-  float: left;
+  float: right;
   position: relative;
 }
 
 .dropdown .dropbtn {
-  text-align: left;
+  text-align: center;
   font-family: Poppins;
   font-size: 15px;
   font-weight: 430;
