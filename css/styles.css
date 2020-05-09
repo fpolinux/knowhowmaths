@@ -10117,12 +10117,12 @@ header.masthead h1 {
   color: rgba(255, 255, 255, 0.75);
 }
 .dropdown {
-  float: right;
+  float: left;
   position: relative;
 }
 
 .dropdown .dropbtn {
-  text-align: center;
+  text-align: left;
   font-family: Poppins;
   font-size: 15px;
   font-weight: 430;
