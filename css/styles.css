@@ -3978,7 +3978,7 @@ input[type=button].btn-block {
 .navbar .container-xl {
   display: flex;
   flex-wrap: wrap;
-  align-items: left;
+  align-items: center;
   justify-content: space-between;
 }
 .navbar-brand {
@@ -10119,6 +10119,7 @@ header.masthead h1 {
 .dropdown {
   float: right;
   position: relative;
+  align-items: left;
 }
 
 .dropdown .dropbtn {
