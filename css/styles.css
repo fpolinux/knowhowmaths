@@ -10117,9 +10117,8 @@ header.masthead h1 {
   color: rgba(255, 255, 255, 0.75);
 }
 .dropdown {
-  float: right;
+  float: left;
   position: relative;
-  align-items: left;
 }
 
 .dropdown .dropbtn {
