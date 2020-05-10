@@ -10158,3 +10158,6 @@ header.masthead h1 {
 .dropdown:hover .dropdown-content {
   display: block;
 }
+#custom-navbar {
+  padding: 2rem;
+}
